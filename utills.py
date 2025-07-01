@@ -18,7 +18,7 @@ os.environ['USER_AGENT'] = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Appl
 
 def extract_file_type(file_input):
     """
-    파일 경로나 URL을 입력받아 파일 타입을 반환하는 함수
+    파일 경로나 URL을 입력받아 파일 타입을 반환하는 함수.
     
     Args:
         file_input (str): 파일 경로 또는 URL
